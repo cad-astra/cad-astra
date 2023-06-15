@@ -1,0 +1,10 @@
+.vscode
+python/mesh_projector/*.cpp
+python/*.egg-info
+python/dist
+build/*
+__pycache__
+*.raw
+*.mhd
+*.tar.gz
+*.idea/**
