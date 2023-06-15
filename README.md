@@ -79,3 +79,7 @@ Example of `nvprof` invocation script:
 
 nvprof --track-memory-allocations on <script_that_runs_projector>.py
 ```
+
+### Running the projector as differentiable program
+Whilst the main projectors are distributed with the copyleft license (GPLv3), the projectors implemented as differential programs are distributed as closed code.
+To obtain the code for academic or commercial use, please send an email to `Jan Sijbers <Jan.Sijbers@uantwerpen.be>` or `Jan De Beenhouwer <jan.debeenhouwer@uantwerpen.be>`.
