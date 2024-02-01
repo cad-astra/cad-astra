@@ -83,3 +83,10 @@ nvprof --track-memory-allocations on <script_that_runs_projector>.py
 ### Running the projector as differentiable program
 Whilst the main projectors are distributed with the copyleft license (GPLv3), the projectors implemented as differential programs are distributed as closed code.
 To obtain the code for academic or commercial use, please send an email to `Jan Sijbers <Jan.Sijbers@uantwerpen.be>` or `Jan De Beenhouwer <jan.debeenhouwer@uantwerpen.be>`.
+
+# How to cite CAD-ASTRA
+If you use CAD-ASTRA in your research, please cite our paper describing the toolkit published in Optics Express.
+
+- P. Paramonov, N. Francken, J. Renders, D. Iuso, T. Elberfeld, J. De Beenhouwer, and J. Sijbers, "CAD-ASTRA: a versatile and efficient mesh projector for X-ray tomography with the ASTRA-toolbox," Opt. Express  32, 3425-3439 (2024); DOI: https://doi.org/10.1364/OE.498194
+
+
