@@ -1,5 +1,4 @@
 # CUDA Mesh projector
-
 Projects triangular meshes with (ASTRA) cone and cone vector geometries.
 
 ## License
